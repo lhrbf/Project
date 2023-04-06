@@ -1,0 +1,28 @@
+.TextTittle{
+text-align: center;
+font-style: bold;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size:xx-large;
+color: white;
+-webkit-text-stroke: 1.5px blue;
+      text-stroke: 1.5px blue;
+}
+
+.TextTattoo{
+    min-width: 150px;
+    max-width: 250px;
+    width: 100%;
+    min-height: 300px;
+    max-height: 400px;
+    font-size: small;
+    margin: auto;
+    padding: 1% 1% 1% 1%;
+    background-color: whitesmoke;
+    color: black;
+    text-align:left;
+    margin: 30px 50% 30px 20%;
+    border-radius: 2px;
+    border: groove 2px black;
+}
+
+
